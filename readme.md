@@ -76,7 +76,8 @@ open ```index.html``` file from prediction folder. it will open webcam and start
 
 
 
-## Video Summary
+##  Summary
 
 Video summary can be viewed from this google drive link: https://drive.google.com/file/d/1rypEss4Tv_Hfujnuuk4UEG2l9E6uzVzX/view?usp=sharing
+1000 word summary is shared as a .docx file. Also, detail code explanation for resize.py, video.py and pose.js (pred) is added as comments in their following codes.
 
