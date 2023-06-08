@@ -80,7 +80,7 @@ def generate_video():
 
     # Define the codec and create VideoWriter object
     fourcc = 0x00000021
-    out = cv2.VideoWriter('7_yoga.mp4', fourcc, 1.0, (750, 750))
+    out = cv2.VideoWriter('7_yoga.mp4', fourcc, 1.0, (750, 750)) #size of the video frames ais 750x750
 
     
 
