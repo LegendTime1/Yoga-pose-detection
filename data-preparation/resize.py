@@ -39,7 +39,7 @@ if __name__ == "__main__":
     for file in files:
         print(file)
         f_path = src_path+file
-        img = cv2.imread(f_path) #cv2.imread reads a n-dimensional numpy array
+        img = cv2.imread(f_path) #cv2.imread outputs a n-dimensional numpy array
         img = resize_image(img,size=(750,750)) 
         cv2.imwrite(dst_path+file,img)
 
