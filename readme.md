@@ -11,6 +11,11 @@ Currently this system gives around 75% accuracy which can be improve by gatherin
 ).If you have any query  please contact me via [E-mail](md.sharif.ullah.forhad@gmail.com)
 
 
+##  Summary
+
+Video summary can be viewed from this google drive link: https://drive.google.com/file/d/1rypEss4Tv_Hfujnuuk4UEG2l9E6uzVzX/view?usp=sharing
+1000 word summary is shared as a .docx file. Also, detail code explanation for resize.py, video.py and pose.js (pred) is added as comments in their following codes.
+
 ## Table of Contents
 - [Basic Theory](#Basic-Theory)
 - [Installation](#installation)
@@ -74,10 +79,4 @@ open ```index.html``` file from prediction folder. it will open webcam and start
 
 ![Figure](https://github.com/forhadsidhu/Yoga-pose-detection/blob/master/Images/pred.PNG)
 
-
-
-##  Summary
-
-Video summary can be viewed from this google drive link: https://drive.google.com/file/d/1rypEss4Tv_Hfujnuuk4UEG2l9E6uzVzX/view?usp=sharing
-1000 word summary is shared as a .docx file. Also, detail code explanation for resize.py, video.py and pose.js (pred) is added as comments in their following codes.
 
