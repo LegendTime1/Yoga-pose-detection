@@ -76,7 +76,7 @@ open ```index.html``` file from prediction folder. it will open webcam and start
 
 
 
-##Video Summary
+## Video Summary
 
 Video summary can be viewed from this google drive link: https://drive.google.com/file/d/1rypEss4Tv_Hfujnuuk4UEG2l9E6uzVzX/view?usp=sharing
 
